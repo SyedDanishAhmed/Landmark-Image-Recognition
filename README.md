@@ -23,5 +23,6 @@ The dataset is subset of the Google Landmark Recognition Challenge.
 **images.zip** - An archive containing all images, test and train.
 
 ## Data fields
-• id - an anonymous id unique to a given image in the images folder
-• landmark_id - the id of a landmark
+**id** - an anonymous id unique to a given image in the images folder
+
+**landmark_id** - the id of a landmark
